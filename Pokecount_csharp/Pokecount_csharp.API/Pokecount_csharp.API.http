@@ -1,0 +1,6 @@
+@Pokecount_csharp.API_HostAddress = http://localhost:5045
+
+GET {{Pokecount_csharp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
